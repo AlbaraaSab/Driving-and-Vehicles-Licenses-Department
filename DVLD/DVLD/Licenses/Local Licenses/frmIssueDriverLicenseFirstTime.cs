@@ -35,6 +35,10 @@ namespace DVLD.Licenses.Local_Licenses
                 Driver.CreatedDate = DateTime.Now;
                 Driver.AddNewDriver();
             }
+            else
+            {
+                Driver = clsDriver.FindDriverByPersonID(localDrivingLicenseApplications.ApplicantPersonID);
+            }
 
             license.ApplicationID = localDrivingLicenseApplications.ApplicationID;
             license.DriverID = Driver.DriverID;

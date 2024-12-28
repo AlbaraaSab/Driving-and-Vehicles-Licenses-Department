@@ -26,15 +26,6 @@ namespace DVLD.Tests.Controls
         public ctrlScheduleTest()
         {
             InitializeComponent();
-
-            if (_appointmentID == -1)
-            {
-                Mode = enMode.Add;
-            }
-            else
-            {
-                Mode = enMode.Update;
-            }
         }
 
 
@@ -44,6 +35,15 @@ namespace DVLD.Tests.Controls
             _testTypeID = testTypeID;
             _appointmentID = appointmentID;
             _reTakeApplicationID = reTakeApplicationID;
+
+            if (_appointmentID == -1)
+            {
+                Mode = enMode.Add;
+            }
+            else
+            {
+                Mode = enMode.Update;
+            }
 
             _loadTestTypeDate();
             _FillAppointmentData();

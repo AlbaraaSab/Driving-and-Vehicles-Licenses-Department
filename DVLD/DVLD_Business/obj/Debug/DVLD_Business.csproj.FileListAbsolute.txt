@@ -1,0 +1,9 @@
+D:\Learning-Lab\ProgrammingAdvice\C#\19 - Full Real Project\Driving License Management\DVLD\DVLD_Business\bin\Debug\DVLD_Business.dll
+D:\Learning-Lab\ProgrammingAdvice\C#\19 - Full Real Project\Driving License Management\DVLD\DVLD_Business\bin\Debug\DVLD_Business.pdb
+D:\Learning-Lab\ProgrammingAdvice\C#\19 - Full Real Project\Driving License Management\DVLD\DVLD_Business\bin\Debug\DVLD_DataAccess.dll
+D:\Learning-Lab\ProgrammingAdvice\C#\19 - Full Real Project\Driving License Management\DVLD\DVLD_Business\bin\Debug\DVLD_DataAccess.pdb
+D:\Learning-Lab\ProgrammingAdvice\C#\19 - Full Real Project\Driving License Management\DVLD\DVLD_Business\obj\Debug\DVLD_Business.csproj.AssemblyReference.cache
+D:\Learning-Lab\ProgrammingAdvice\C#\19 - Full Real Project\Driving License Management\DVLD\DVLD_Business\obj\Debug\DVLD_Business.csproj.CoreCompileInputs.cache
+D:\Learning-Lab\ProgrammingAdvice\C#\19 - Full Real Project\Driving License Management\DVLD\DVLD_Business\obj\Debug\DVLD_Business.csproj.CopyComplete
+D:\Learning-Lab\ProgrammingAdvice\C#\19 - Full Real Project\Driving License Management\DVLD\DVLD_Business\obj\Debug\DVLD_Business.dll
+D:\Learning-Lab\ProgrammingAdvice\C#\19 - Full Real Project\Driving License Management\DVLD\DVLD_Business\obj\Debug\DVLD_Business.pdb

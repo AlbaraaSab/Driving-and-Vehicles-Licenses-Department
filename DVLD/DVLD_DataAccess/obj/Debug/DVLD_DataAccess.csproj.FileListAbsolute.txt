@@ -1,0 +1,6 @@
+D:\Learning-Lab\ProgrammingAdvice\C#\19 - Full Real Project\Driving License Management\DVLD\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+D:\Learning-Lab\ProgrammingAdvice\C#\19 - Full Real Project\Driving License Management\DVLD\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+D:\Learning-Lab\ProgrammingAdvice\C#\19 - Full Real Project\Driving License Management\DVLD\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+D:\Learning-Lab\ProgrammingAdvice\C#\19 - Full Real Project\Driving License Management\DVLD\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+D:\Learning-Lab\ProgrammingAdvice\C#\19 - Full Real Project\Driving License Management\DVLD\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+D:\Learning-Lab\ProgrammingAdvice\C#\19 - Full Real Project\Driving License Management\DVLD\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
